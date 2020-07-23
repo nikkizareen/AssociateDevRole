@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="firstSpringBootProject.main" target="1.8" />
+      <module name="firstSpringBootProject.test" target="1.8" />
+      <module name="select.users.firstSpringBootProject.main" target="1.8" />
+      <module name="select.users.firstSpringBootProject.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
